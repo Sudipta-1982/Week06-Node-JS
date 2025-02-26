@@ -1,0 +1,24 @@
+{
+  "name": "06week",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Sudipta-1982/Week06-Node-JS#readme",
+  "bugs": {
+    "url": "https://github.com/Sudipta-1982/Week06-Node-JS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sudipta-1982/Week06-Node-JS.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@types/node": "^22.13.5"
+  },
+  "devDependencies": {}
+}
